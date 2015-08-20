@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="namecity">Enter the name of the city</string>
+    <string name="button_send_request">Send request</string>
+    <string name="coord">coord</string>
+    <string name="lon">lon</string>
+    <string name="lat">lat</string>
+    <string name="weather">weather</string>
+    <string name="id">id</string>
+    <string name="main">main</string>
+    <string name="description">description</string>
+    <string name="icon">icon</string>
+    <string name="base">base</string>
+    <string name="temp">temp</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">humidity</string>
+    <string name="temp_min">temp_min</string>
+    <string name="temp_max">temp_max</string>
+    <string name="visibility">visibility</string>
+    <string name="wind">wind</string>
+    <string name="speed">speed</string>
+    <string name="deg">deg</string>
+    <string name="clouds_all">clouds_all</string>
+    <string name="dt">dt</string>
+    <string name="sys">sys</string>
+    <string name="type">type</string>
+    <string name="sys_id">sys_id</string>
+    <string name="message">message</string>
+    <string name="country">country</string>
+    <string name="sunrise">sunrise</string>
+    <string name="sunset">sunset</string>
+    <string name="id2">id2</string>
+    <string name="name">name</string>
+    <string name="cod">cod</string>
+
+</resources>
